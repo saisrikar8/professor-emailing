@@ -31,7 +31,7 @@ password = 'insert-password-here'
 
 In the string of the username, enter the username that you would use while logging in to whichever email service you would use.
 
-The password is where it gets tricky; different ema``il servers have different security measures, and they may require you to generate separate passwords for third-party services, like this program. 
+The password is where it gets tricky; different email servers have different security measures, and they may require you to generate separate passwords for third-party services, like this program. 
 
 For instance, the Gmail server (`smtp.gmail.com`) requires you to enable two-factor authentication and generate an app password, which you would use as your password for a third-party service. You may also have some restrictions placed by your organization or if your Google account is being supervised by somone.
 
