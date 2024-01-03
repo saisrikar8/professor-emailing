@@ -66,7 +66,7 @@ Add another element to this `dictionary` where the key is the domain name of you
 
 #### Step 4: Writing Your Message
 
-In order to write your message, just open the `messages.txt` file and write whatever you are want to send.
+In order to write your message, just open the `messages.txt` file and write whatever you want to send.
 
 
 #### Step 5: Installing Packages
